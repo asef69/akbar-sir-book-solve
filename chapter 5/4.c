@@ -18,6 +18,7 @@ int main(){
     }
     free(A);
     free(B);
+    return 0;
 
 }
 
